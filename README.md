@@ -1,8 +1,8 @@
-# cornos installer <!--rip flare mod installer-->
-The user-friendly installer for the cornos client, installs cornos and the fabric api to the selected folder. 
+# Coffee Installer <!--rip flare mod installer-->
+For if you are too lazy to manually install Coffee.
 
-## Usage
-##### Download the latest jar at https://github.com/AriliusClient/cornos-installer/releases
+## Usage/
+##### Download the latest jar at https://github.com/aaashleyyyy/Coffee-Installer/releases
 Make sure you have the [fabric modloader](https://fabricmc.net/use/) installed. 
 #### Windows
 Install java, run the jar, then select your .minecraft folder(usually at `%appdata%\.minecraft`) when prompted. 
@@ -18,6 +18,3 @@ If you managed to get Minecraft Java working there, you definitely know what you
 Because we don't want to pay like $99 a year to apple for an apple developer's license. Please read the section on how to install on a mac to bypass this warning. 
 #### The installer didn't do anything. 
 It is likely you forgot to install the [fabric modloader](https://fabricmc.net/use/). 
-## Screenshots
-![cornos installer](https://user-images.githubusercontent.com/29553771/118085471-509eda00-b377-11eb-93b2-120f8d53cb37.png)
-<!--don't worry it's riced xfce I don't use windows I swear-->

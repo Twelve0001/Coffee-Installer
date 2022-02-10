@@ -1,7 +1,7 @@
 # Coffee Installer <!--rip flare mod installer-->
 For if you are too lazy to manually install Coffee.
 
-## Usage/
+## Usage
 ##### Download the latest jar at https://github.com/aaashleyyyy/Coffee-Installer/releases
 Make sure you have the [fabric modloader](https://fabricmc.net/use/) installed. 
 #### Windows

@@ -47,8 +47,8 @@ public class InstallerScreen extends GuiBase {
                 } else return;
             }
             progress.setValue(10);
-            File coffeeJar = new File(modsFolder.getAbsolutePath() + "/sipoverprivate-1.0.0.jar");
-            String coffee = "https://gitlab.com/0x151/coffeeclientpublic/-/raw/master/bin/sipoverprivate-1.0.0.jar?inline=false";
+            File coffeeJar = new File(modsFolder.getAbsolutePath() + "/Coffee-1.0.0.jar");
+            String coffee = "https://gitlab.com/0x151/coffeeclientpublic/-/raw/master/bin/Coffee-1.0.0.jar?inline=false";
             progress.setValue(20);
             try {
                 new Thread(() -> {
